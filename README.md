@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brusilcar
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Analysis and Sustems Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m married
 - 📫 How to reach me ...
 
 <!---
